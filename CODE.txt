@@ -216,7 +216,7 @@ void main()
         }while(ch!=1&&ch!=2&&ch!=3&&ch!=4&&ch!=5&&ch!=6);
 
         if(ch==1)
-        {   printf("\t\t\t\t\t\TATA MOTORS \n");
+        {   printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :NANO\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[0].cp);
             du=inputs(cars[0].aquan);
@@ -236,7 +236,7 @@ void main()
 
         else if(ch==2)
         {
-            printf("\t\t\t\t\t\TATA MOTORS \n");
+            printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :ALTROZ\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[1].cp);
             du=inputs(cars[1].aquan);
@@ -256,7 +256,7 @@ void main()
 
            else if(ch==3)
         {
-            printf("\t\t\t\t\t\TATA MOTORS \n");
+            printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :NEXON\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[2].cp);
             du=inputs(cars[2].aquan);
@@ -276,7 +276,7 @@ void main()
 
           else if(ch==4)
         {
-            printf("\t\t\t\t\t\TATA MOTORS \n");
+            printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :HARRIER\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[3].cp);
             du=inputs(cars[3].aquan);
@@ -297,7 +297,7 @@ void main()
 
            else if(ch==5)
         {
-            printf("\t\t\t\t\t\TATA MOTORS \n");
+            printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :NEXONEV\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[4].cp);
             du=inputs(cars[4].aquan);
@@ -317,7 +317,7 @@ void main()
 
             else if(ch==6)
         {
-            printf("\t\t\t\t\t\TATA MOTORS \n");
+            printf("\t\t\t\t\t TATA MOTORS \n");
             printf("\n Brand                     :TIGOREV\n");
             printf(" Cost/1                    :%.3fLakhs\n",cars[5].cp);
             du=inputs(cars[5].aquan);
